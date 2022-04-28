@@ -1,0 +1,15 @@
+C:\Users\Timing\Desktop\Example2904\Example0005_random\bin\Debug\net6.0\Example0005_random.exe
+C:\Users\Timing\Desktop\Example2904\Example0005_random\bin\Debug\net6.0\Example0005_random.deps.json
+C:\Users\Timing\Desktop\Example2904\Example0005_random\bin\Debug\net6.0\Example0005_random.runtimeconfig.json
+C:\Users\Timing\Desktop\Example2904\Example0005_random\bin\Debug\net6.0\Example0005_random.dll
+C:\Users\Timing\Desktop\Example2904\Example0005_random\bin\Debug\net6.0\Example0005_random.pdb
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.csproj.AssemblyReference.cache
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.AssemblyInfoInputs.cache
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.AssemblyInfo.cs
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.csproj.CoreCompileInputs.cache
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.dll
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\refint\Example0005_random.dll
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.pdb
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\Example0005_random.genruntimeconfig.cache
+C:\Users\Timing\Desktop\Example2904\Example0005_random\obj\Debug\net6.0\ref\Example0005_random.dll
